@@ -1,0 +1,36 @@
+html{
+  height: 100%;
+  height: -webkit-fill-available;
+}
+
+body{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+h1{
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 16vh;
+  margin: 0;
+}
+
+h2{
+  font-family: 'Rubik Beastly', cursive;
+  font-size: 3.5vh;
+  padding: 0;
+}
+
+h3{
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 100;
+  font-size: 2.5vh;
+  padding-top: 3vh;
+  padding-bottom: 1vh;
+}
