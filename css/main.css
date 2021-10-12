@@ -18,7 +18,8 @@ body{
 h1{
   font-family: 'Libre Barcode 39 Text', cursive;
   font-size: 16vh;
-  margin: 0;
+  padding-left: 20;
+  padding-right: 20;
 }
 
 h2{
